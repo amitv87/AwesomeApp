@@ -1,14 +1,20 @@
 Awesome RTC Electron App
 
-mac
+#### Build
+- Mac
+```bash
 npm install
-.\node_modules\.bin\electron-rebuild.cmd
+./node_modules/.bin/electron-rebuild
+```
 
-windows
+- Windows
+```bash
 npm install
-or for visualstudio 2013
+#or for visualstudio 2013
 npm install --msvs_version=2013
 .\node_modules\.bin\electron-rebuild.cmd
-
-to start the app
+```
+#### Run
+```bash
 npm start
+```
