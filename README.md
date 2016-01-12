@@ -7,7 +7,7 @@ npm install
 ./node_modules/.bin/electron-rebuild
 ```
 
-- Windows
+- Windows (in vusal studio command prompt)
 ```bash
 npm install
 #or for visualstudio 2013
