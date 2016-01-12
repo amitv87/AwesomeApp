@@ -1,24 +1,21 @@
 {
   "name": "AwesomeRTC",
   "version": "1.0.0",
-  "description": "Awesome RTC electron app",
+  "description": "Awesome RTC Electron App",
   "main": "main.js",
   "scripts": {
     "start": "electron main.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/atom/electron-quick-start.git"
+    "url": "git+https://github.com/amitv87/AwesomeApp.git"
   },
   "keywords": [
     "Awesome RTC",
     "remote desktop",
-    "screen share",
+    "screen share"
   ],
-  "bugs": {
-    "url": "https://github.com/atom/electron-quick-start/issues"
-  },
-  "homepage": "https://github.com/atom/electron-quick-start#readme",
+  "homepage": "https://github.com/amitv87/AwesomeApp#readme",
   "devDependencies": {
     "copy-paste": "^1.1.4",
     "electron-prebuilt": "^0.36.3",
